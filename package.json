@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node . --db 'mongodb+srv://ridwan:wannofc@cluster0.ykzwonn.mongodb.net/?retryWrites=true&w=majority' && node index --code"
+    "start": "node index --code"
   },
   "repository": {
     "type": "git",

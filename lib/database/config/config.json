@@ -1,0 +1,18 @@
+{
+  "pairingNumber": "6285173391354",
+  "authorName": "wann",
+  "authorNumber": [
+    "6285640068416"
+  ],
+  "botName": "WannBot",
+  "footer": "© wannofc",
+  "myweb": "https://api-fauzidev.cyclic.app",
+  "limitCount": {
+    "prem": 35,
+    "free": 15
+  },
+  "isPublic": false,
+  "userPrem": [
+    "6285640068416"
+  ]
+}
